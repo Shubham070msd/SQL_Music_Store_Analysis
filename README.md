@@ -13,4 +13,4 @@ Schema- Music Store Database
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
 Thanks to Rishabh Mishra 
-> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
+> Complete project explained on YouTube by Rishabh Mishra: https://www.youtube.com/watch?v=VFIuIjswMKM
